@@ -61,5 +61,5 @@
 
 // console.log( null || 2 && 3 || 4); // bunisida consolda 3 chiqadi cunki || bu belgidan oldinda kelgan true ni oladi va bu qat'iy boladi consolda 2 chiqmaganining sababi || dan keyin kelgani uchun va uni orqasida && belgi bolganini uchun ham
 
-console.log( console.log(1) && console.log(2));// consolda 1 va undefined chiqadi nma uchunligini topolmadim ?
+// console.log( console.log(1) && console.log(2));// consolda 1 va undefined chiqadi nma uchunligini topolmadim ?
 
