@@ -44,5 +44,5 @@
 // }else {
 //   console.log("We hope that this page looks ok!")
 // }
-let message ;
+
 
