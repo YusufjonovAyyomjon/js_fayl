@@ -1,4 +1,4 @@
-// let number = 16;
+// let number = 0;
 
 // if (number >= 1){
 //     number = number - 2; 
@@ -8,7 +8,7 @@
 //         ++number; 
 //     }
 //     else{
-//         console.log(number = 10);
+//         console.log(number = 10); // javob 10
     
 // }
 // console.log(number);
