@@ -1,3 +1,17 @@
+// let number = 16;
+
+// if (number >= 1){
+//     number = number - 2; 
+// }
+//     else if(number <= -1){
+        
+//         ++number; 
+//     }
+//     else{
+//         console.log(number = 10);
+    
+// }
+// console.log(number);
 
 // let a = 7, b = 7, c = 0;
 
