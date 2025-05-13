@@ -118,31 +118,3 @@
 // }
 // console.log(a,b);
 
-
-let a = 5, b = 1, c = 2;
-let num = 0;
-if (a<b<c) {
-    num = a
-    num = b
-    num = c
-    
-}
-
-if (a<b<c) {
-    num = a
-    num = b
-    num = c
-    
-}
-
-
-
-if (a<b<c) {
-    num = a
-    num = b
-    num = c
-}
-
-    
-
-console.log(num);
