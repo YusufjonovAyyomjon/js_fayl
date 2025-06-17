@@ -8,3 +8,5 @@
 // for (let i = 0; i < 5; i++) { // 0 dan boshlanib 4 da tugaydi chunki ++ belgisi ozgaruv chidan keyinkelsa  aval ozgaruv chini chiqaradi keyin qoshadi
 //     console.log(i);
 // }
+let a = +prompt("100 dan katta son  kiriting ");
+

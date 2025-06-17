@@ -47,7 +47,7 @@
 
 
 // let a = 2;
-// let x = 1 + (a * 2);
+// let x = 1 + a * 2;
 // console.log(x); // 5 chiqadi chunki a ni * 2 ko'paytiryapti a ni qiymati 2      2 * 2 = 4 chiqadi  4 + 1 = 5 shunaqa ishlayapti
 
 
