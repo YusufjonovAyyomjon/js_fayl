@@ -41,6 +41,9 @@
 // let f = a+b+s;
 // console.log(f/3);
 
-// let a = 2,b=8,s=4;
-// let f = a*b*s;
-// console.log(f);
+
+// let a = 2, b = 8, s = 4;
+// let f = a * b * s;       
+// let daraja = f ** (1/3); 
+// console.log(daraja);     
+
