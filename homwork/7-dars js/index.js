@@ -1,49 +1,18 @@
+let a = 3, b = 9, s = 27, c=81;
+function data (param1, param2,param3,param4){
+   let summ = param1+param2+param3+param4;
+   return summ / 4;
+}
 
-// let d = 10, v = 2, q =4;
-// function ortachaarifmetik (a,b,c){
-//     let ortacha;
-
-    
-//     if(a>b && a<c){
-//         console.log(a,"ortacha");
-//         max=a
-//     }
-//     else if(b>a && b<c){
-//         console.log(b,"ortacha");
-//         ortacha=b
-//     }
-//     else if(c>a && c<b){
-//         console.log(c,"ortacha");
-//         ortacha=c
-//     }
-    
-    
-    
-//     else if(a<b && a>c){
-//         console.log(a,"ortacha");
-//         ortacha=a
-//     }
-//     else if(b<a && b>c){
-//         console.log(b,"ortacha");
-//         ortacha=b
-//     }
-//     else if(c<a && c>b){
-//         console.log(c,"ortacha");
-//         ortacha=c
-//     }
-    
-// }
-
-// ortachaarifmetik(d,v,q)
+console.log(data (a,b,s,c))
 
 
-// let a = 4,b=10,s=8;
-// let f = a+b+s;
-// console.log(f/3);
+// ===========================================
 
 
-// let a = 2, b = 8, s = 4;
-// let f = a * b * s;       
-// let daraja = f ** (1/3); 
-// console.log(daraja);     
+function data (param1, param2,param3,param4){
+   let summ = param1*param2*param3*param4;
+   return summ ** (1/4);
+}
 
+console.log(data (a,b,s,c))

@@ -42,7 +42,7 @@ let ortacha;
 
 if(a>b && a<c){
     console.log(a,"ortacha");
-    max=a
+    ortacha=a
 }
 else if(b>a && b<c){
     console.log(b,"ortacha");

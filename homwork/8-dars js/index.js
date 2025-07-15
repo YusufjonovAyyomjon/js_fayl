@@ -54,12 +54,6 @@
 
 
 
-
-
-
-
-
-
 // ==========================================
 
 // let a = 3;
@@ -117,8 +111,8 @@
 //     age: 20,
 //     course: "Frontend"
 //   };
-
-// console.log(student.firstName,student.lastName,student.age);// console.log ga eshmat toshmatov 20 chiqadi
+// let {firstName, lastName,age, course}=student;
+// console.log(firstName,lastName,age);// console.log ga eshmat toshmatov 20 chiqadi
 
 
 
@@ -131,5 +125,4 @@
 
 // let newdata = data.price * data.quantity;
 // console.log("umumiy hisob",newdata); // javob: 5600 chiqadi
-  
   
