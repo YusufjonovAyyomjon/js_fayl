@@ -35,6 +35,15 @@
 
 // javobda [ 'a', 'b', [Function]] chiqadi 
 
-let a = "a,b,c";
-let m = a.split(",");
-console.log(m);
+// function sumInput() {
+//     let arr = [],sum=0;
+
+//     while (true) {
+//         let value = prompt("Raqam kiriting");
+//         if (value && value.includes(" ")) arr.push(value);
+//         else break; 
+//     }
+//     for (let value of arr) sum += Number(value);
+//     return sum;
+// }
+// console.log(sumInput());
